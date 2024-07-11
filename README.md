@@ -9,6 +9,8 @@ Technologies
 File Structure
 Contributing
 License
+
+
 Features
 User Authentication: Secure user registration and login using JWT tokens.
 Product Management: Add, edit, delete, and list products.
@@ -24,7 +26,7 @@ MongoDB
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/ecommerce-mern.git
+git clone https://github.com/Ruchitha4453/EComm.git
 cd ecommerce-mern
 Backend Setup
 Navigate to the backend directory:
